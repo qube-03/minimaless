@@ -1,0 +1,149 @@
+/* minimaless by qube#3925 */
+
+
+
+
+
+
+/* make everything square, change the Xpx value to change the circleiness */
+* {
+  border-radius: 0px !important;
+  mask: none !important;
+}
+
+
+
+
+
+
+/* removing elements */
+
+/* servers */
+.wrapper-1_HaEi {
+    display: none;}
+
+/* channels */
+.sidebar-1tnWFu {
+    display: none;}
+
+/* server name */
+.header-3OsQeK {
+    display: none;}
+
+/* title bar description */
+.topic-11NuQZ {
+    display: none;}
+
+/* title bar buttons */
+.icon-1ELUnB {
+    display: none;}
+.iconWrapper-2awDjA {
+    display: none;}
+
+/* user card at the bottom */
+.container-YkUktl {
+    display: none;}
+
+/* member list */
+.container-2o3qEW {
+    display: none;}
+
+/* friends */
+.scroller-WSmht3 {
+    display: none;}
+
+/* vc panel at the bottom */
+.container-1zzFcN {
+    display: none;}
+
+/* find or start a convo bar */
+.searchBar-3TnChZ {
+    display: none;}
+
+/* new unreads thing */
+.unreadBottom-3Ojk6R {
+    display: none;}
+
+/* server banner */
+.bannerImg-2PzH6z {
+    display: none;}
+
+/* text input area icons */
+.buttons-uaqb-5 {
+    display: none;}
+.attachWrapper-3slhXI {
+    display: none;}
+
+/* various useless text sections */
+.pro-3GwLMX[style="color: hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 43.9%);"]{
+    display: none;}
+.streamQualityIndicator-n62BFt {
+    display: none;}
+
+
+
+
+
+/* improve performance on linux, code by george.#0550 */
+.wrapper-25eVIn svg {
+    overflow: hidden;}
+
+
+
+
+
+
+/* font, JetBrains Mono needs to be installed for this to work */
+body {
+  font-family: 'JetBrains Mono'; !important
+  font-size: 18px;
+  color: #FFF;}
+
+
+
+
+
+
+/* change the text input box to be more minimal */
+.form-3gdLxP {
+  padding: 0px;}
+
+.inner-NQg18Y {
+  padding-top: 6px;
+  padding-bottom: 3px;}
+
+.channelTextArea-1VQBuV {
+  margin-bottom: 0px;}
+
+.typing-2J1mQU {
+/* do this */}
+
+
+
+
+
+
+/* colors */ /* change these hex values to get different colors */
+:root
+{
+    --background-primary: #000000;
+    --background-secondary: #000000;
+    --background-secondary-alt: #000000;
+    --background-tertiary: #000000;
+    --channeltextarea-background: #000000;
+    --background-accent: #000000;
+    --background-message-hover: #000000;
+    --background-modifier-hover: #000000;
+    --background-modifier-active: #000000;
+    --background-floating: #000000;
+    --scrollbar-auto-thumb: #000000;
+    --scrollbar-auto-track: #000000;
+    --scrollbar-thin-thumb: #000000;
+    --activity-card-background: #000000;
+}
+.input-3r5zZY {
+background-color: #000000;}
+.container-2McqkF {
+background-color: #030303;}
+.resultsGroup-cfY57t {
+background-color: #000000;}

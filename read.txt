@@ -1,0 +1,24 @@
+#minimaless
+
+
+#a theme with... nothing.
+
+#thats right! as distractionfree as can be, no channel bar, no server bar, no member bar, no nothing.
+
+
+
+
+#well, how do i move around then??
+
+#simple! ctrl+k
+#youre gonna use ctrl+k for everything, thats the only thing you can even do with this theme anyway.
+#(you should also use other keybinds to get to the settings for example)
+#if youre unsure how to do something, use ctrl+/ to get a list of all keybinds.
+
+#enjoy!
+
+#colors should be changed in the .css file.
+
+
+
+#Author: qube#3925
